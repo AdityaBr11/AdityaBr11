@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Aditya Anand</h1>
+<h1 align="center">Hi 👋, <br/> I'm Aditya Anand</h1>
+<hr/>
 <h3 align="center">An Aspiring Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabr11&label=Profile%20views&color=0e75b6&style=flat" alt="adityabr11" /> </p>
