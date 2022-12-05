@@ -1,7 +1,10 @@
 
 
-[![](https://visitcount.itsvg.in/api?id=adityabr11&icon=0&color=1)](https://visitcount.itsvg.in)<h1 align="center">Hi 👋 I'm Aditya Anand <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h1> 
+<h1 align="center">Hi 👋 I'm Aditya Anand <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h1> 
 <hr/>
+
+
+
 <h1 Color="teal" align="center">An Aspiring ,</h1>
 <!-- <div align="center" display="flex" >
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&color=teal&center=true" />
@@ -9,7 +12,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=Full+Stack+Web+Developer+From+India....👨🏻‍💻;" style="width: 100%">
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-
+[![](https://visitcount.itsvg.in/api?id=adityabr11&icon=0&color=1)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **full stack web development**
 
